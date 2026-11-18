@@ -1,5 +1,3 @@
-=============================================================================================================================================================================================================================================================================================
-
 # RESUMO: DATA MART DE VIGILÂNCIA EPIDEMIOLÓGICA DE ARBOVIROSES
 Projeto da disciplina de Sistemas de Apoio a Decisão, usando Dados Abertos do SINAN
 
@@ -45,4 +43,3 @@ O painel gerencial implementado responde a perguntas estrategicas fundamentais p
 - Sazonalidade e Mes de Pico: Identificacao estatistica do periodo de maior transmissao (com pico historico mapeado em abril) para planejar o reforco de equipes de atendimento.
 - Perfil Demografico (Genero e Faixa Etaria): Monitoramento de grupos vulneraveis (como a concentracao em publico adulto e idosos, alem de analises pediatricas).
 - Ranking de Municipios Criticos: Ordenacao por volume de casos para priorizar mutiroes de limpeza urbana e repasses de verbas emergenciais.
-=============================================================================================================================================================================================================================================================================================
